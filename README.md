@@ -1,6 +1,5 @@
 # Ebets
-Ebets is a decentralized betting platform, built using Ethereum, where you
-can create and join bets.
+Ebets is a user-friendly decentralized betting platform built on Ethereum, allowing you to create and join bets for sports and esports matches—check it out at 🌐 ebets.ch or via IPFS! 🎮🏆
 
 Ebets focuses on sports and e-sports matches. You can access it in a convenient way
 at: [ebets.ch](https://ebets.ch) or at ipfs: 
@@ -103,15 +102,3 @@ The contracts are deployed in the **Kovan** testnet, so make sure you don't send
 
 The system is unstable, so do not rely on the bets to be there in the following day, this is for testing only
 right now!
-
-# TODOs
-- [ ] Support ERC20 tokens
-- [ ] Make UI to create arbiters
-- [ ] Option to create no-fee private bets
-- [ ] Index bets by category in Ebets events
-- [ ] Fix my bets
-- [ ] Fix images for bets
-- [ ] Better format BigNumber
-- [ ] Fix "Win", sum with already bet by account, edit positioning
-- [ ] Paginate bets
-
